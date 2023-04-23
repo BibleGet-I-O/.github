@@ -26,6 +26,12 @@ All biblical texts used in the project which covered by copyright have been secu
 through written or spoken agreements with the rightful copyright owners,
 and usage / distribution of the biblical texts is limited to within the BibleGet project.
 
+> 2 Timothy 2:8-10
+> 
+> Remember Jesus Christ, raised from the dead, a descendant of David: such is my gospel, for which I am suffering, even to the point of chains, like a criminal. ***But the word of God is not chained.*** Therefore, I bear with everything for the sake of those who are chosen, so that they too may obtain the salvation that is in Christ Jesus, together with eternal glory.
+> 
+> (New American Bible revised edition)
+
 # Support the project
 All development of the project is open source, and so far has not received any kind of funding.
 The server that the API runs on is financed personally by John Romano D'Orazio.
