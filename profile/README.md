@@ -8,6 +8,7 @@ Some of the client implementations that have been created so far:
 * OpenOffice extension
 * LibreOffice extension
 * WordPress extension
+* Google Docs add-on
 
 # History of the project
 The project was an idea of John Romano D'Orazio, a priest in the Diocese of Rome, Italy.
