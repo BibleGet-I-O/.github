@@ -40,6 +40,8 @@ open issues, translate the interfaces, or contribute some code.
 If you like this project and find it useful, please consider sending a donation to support the project
 and allow the server to continue running, and to offer more reliable services.
 
+[Become a sponsor](https://github.com/sponsors/BibleGet-I-O)
+
 # Community
 Other than the spaces for discussions and issues here on github within the BibleGet organization,
 please feel free to join the OpenSourceCatholic community and slack channel where we share ideas
