@@ -24,3 +24,25 @@ to gain permission for usage of the biblical texts within the BibleGet project.
 All biblical texts used in the project which covered by copyright have been secured
 through written or spoken agreements with the rightful copyright owners,
 and usage / distribution of the biblical texts is limited to within the BibleGet project.
+
+# Support the project
+All development of the project is open source, and so far has not received any kind of funding.
+The server that the API runs on is financed personally by John Romano D'Orazio.
+Seeing that my financial possibilities are pretty tight,
+the server offers essential services and is not very reliable:
+there are no backups, and there is no reliable way of upgrading the Operating System
+of the server without some risk of losing the project.
+
+Seeing that the project is open source, it is open to contributions from the community
+of Catholic programmers. Please feel free to join the discussions,
+open issues, translate the interfaces, or contribute some code.
+
+If you like this project and find it useful, please consider sending a donation to support the project
+and allow the server to continue running, and to offer more reliable services.
+
+# Community
+Other than the spaces for discussions and issues here on github within the BibleGet organization,
+please feel free to join the OpenSourceCatholic community and slack channel where we share ideas
+and attempt to create a community spirit for Catholic developers.
+
+[Join Catholic devs Slack workspace](https://join.slack.com/t/catholicdevs/shared_invite/zt-1tovdt4om-YNoPduN0rQub5zBsbucj2w)
